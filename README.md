@@ -5,7 +5,7 @@ Este proyecto contiene recetas creadas por el equipo.
 ## Recetas disponibles
 
 - Tacos al pastor
-- Pasta
+- Pasta carbonara
 
 ## Cómo colaborar
 

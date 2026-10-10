@@ -7,7 +7,7 @@ Este proyecto contiene recetas creadas por el equipo.
 - Tacos al pastor
 - Pasta carbonara
 
-## Cómo colaborar
+## Qué se realizo
 
 1. Crear una rama nueva.
 2. Hacer cambios.
@@ -15,3 +15,12 @@ Este proyecto contiene recetas creadas por el equipo.
 4. Subir la rama a GitHub.
 5. Abrir un Pull Request.
 6. Pedir revisión a otra persona.
+
+##Algunos comandos que se utilizaron
+- git init
+- git checkout -b
+- git add
+- git commit
+- git push
+- git fetch
+- git pull
